@@ -2,6 +2,8 @@
 
 int main(void)
 {
-    printf("helloworld\n");
+    printf("Helloworld Ich bins\n");
+    printf("Helloworld ich bins nochmal\n");
+    printf("Helloworld ich bins zum dritten mal");
     return 0;
 }
